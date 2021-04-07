@@ -1,0 +1,35 @@
+[2021-04-06 20:00:20,479] {scheduler_job.py:182} INFO - Started process (PID=6903) to work on /Users/garonsmith/airflow/dags/simple_dag.py
+[2021-04-06 20:00:20,479] {scheduler_job.py:629} INFO - Processing file /Users/garonsmith/airflow/dags/simple_dag.py for tasks to queue
+[2021-04-06 20:00:20,480] {logging_mixin.py:104} INFO - [2021-04-06 20:00:20,480] {dagbag.py:448} INFO - Filling up the DagBag from /Users/garonsmith/airflow/dags/simple_dag.py
+[2021-04-06 20:00:20,485] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['hello_world2']) retrieved from /Users/garonsmith/airflow/dags/simple_dag.py
+[2021-04-06 20:00:20,518] {logging_mixin.py:104} INFO - [2021-04-06 20:00:20,518] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-04-06 20:00:20,533] {logging_mixin.py:104} INFO - [2021-04-06 20:00:20,533] {dag.py:2273} INFO - Setting next_dagrun for hello_world2 to 2021-04-05 12:00:00+00:00
+[2021-04-06 20:00:20,538] {scheduler_job.py:190} INFO - Processing /Users/garonsmith/airflow/dags/simple_dag.py took 0.059 seconds
+[2021-04-06 20:00:51,184] {scheduler_job.py:182} INFO - Started process (PID=6914) to work on /Users/garonsmith/airflow/dags/simple_dag.py
+[2021-04-06 20:00:51,184] {scheduler_job.py:629} INFO - Processing file /Users/garonsmith/airflow/dags/simple_dag.py for tasks to queue
+[2021-04-06 20:00:51,184] {logging_mixin.py:104} INFO - [2021-04-06 20:00:51,184] {dagbag.py:448} INFO - Filling up the DagBag from /Users/garonsmith/airflow/dags/simple_dag.py
+[2021-04-06 20:00:51,189] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['hello_world2']) retrieved from /Users/garonsmith/airflow/dags/simple_dag.py
+[2021-04-06 20:00:51,240] {logging_mixin.py:104} INFO - [2021-04-06 20:00:51,240] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-04-06 20:00:51,255] {logging_mixin.py:104} INFO - [2021-04-06 20:00:51,255] {dag.py:2273} INFO - Setting next_dagrun for hello_world2 to 2021-04-05 12:00:00+00:00
+[2021-04-06 20:00:51,270] {scheduler_job.py:190} INFO - Processing /Users/garonsmith/airflow/dags/simple_dag.py took 0.087 seconds
+[2021-04-06 20:01:21,956] {scheduler_job.py:182} INFO - Started process (PID=6924) to work on /Users/garonsmith/airflow/dags/simple_dag.py
+[2021-04-06 20:01:21,956] {scheduler_job.py:629} INFO - Processing file /Users/garonsmith/airflow/dags/simple_dag.py for tasks to queue
+[2021-04-06 20:01:21,956] {logging_mixin.py:104} INFO - [2021-04-06 20:01:21,956] {dagbag.py:448} INFO - Filling up the DagBag from /Users/garonsmith/airflow/dags/simple_dag.py
+[2021-04-06 20:01:21,962] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['hello_world2']) retrieved from /Users/garonsmith/airflow/dags/simple_dag.py
+[2021-04-06 20:01:21,991] {logging_mixin.py:104} INFO - [2021-04-06 20:01:21,991] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-04-06 20:01:22,004] {logging_mixin.py:104} INFO - [2021-04-06 20:01:22,004] {dag.py:2273} INFO - Setting next_dagrun for hello_world2 to 2021-04-05 12:00:00+00:00
+[2021-04-06 20:01:22,021] {scheduler_job.py:190} INFO - Processing /Users/garonsmith/airflow/dags/simple_dag.py took 0.066 seconds
+[2021-04-06 20:01:52,710] {scheduler_job.py:182} INFO - Started process (PID=6937) to work on /Users/garonsmith/airflow/dags/simple_dag.py
+[2021-04-06 20:01:52,711] {scheduler_job.py:629} INFO - Processing file /Users/garonsmith/airflow/dags/simple_dag.py for tasks to queue
+[2021-04-06 20:01:52,711] {logging_mixin.py:104} INFO - [2021-04-06 20:01:52,711] {dagbag.py:448} INFO - Filling up the DagBag from /Users/garonsmith/airflow/dags/simple_dag.py
+[2021-04-06 20:01:52,717] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['hello_world2']) retrieved from /Users/garonsmith/airflow/dags/simple_dag.py
+[2021-04-06 20:01:52,748] {logging_mixin.py:104} INFO - [2021-04-06 20:01:52,748] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-04-06 20:01:52,781] {logging_mixin.py:104} INFO - [2021-04-06 20:01:52,781] {dag.py:2273} INFO - Setting next_dagrun for hello_world2 to 2021-04-05 12:00:00+00:00
+[2021-04-06 20:01:52,786] {scheduler_job.py:190} INFO - Processing /Users/garonsmith/airflow/dags/simple_dag.py took 0.076 seconds
+[2021-04-06 20:02:23,447] {scheduler_job.py:182} INFO - Started process (PID=6946) to work on /Users/garonsmith/airflow/dags/simple_dag.py
+[2021-04-06 20:02:23,447] {scheduler_job.py:629} INFO - Processing file /Users/garonsmith/airflow/dags/simple_dag.py for tasks to queue
+[2021-04-06 20:02:23,447] {logging_mixin.py:104} INFO - [2021-04-06 20:02:23,447] {dagbag.py:448} INFO - Filling up the DagBag from /Users/garonsmith/airflow/dags/simple_dag.py
+[2021-04-06 20:02:23,453] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['hello_world2']) retrieved from /Users/garonsmith/airflow/dags/simple_dag.py
+[2021-04-06 20:02:23,490] {logging_mixin.py:104} INFO - [2021-04-06 20:02:23,490] {dag.py:1818} INFO - Sync 1 DAGs
+[2021-04-06 20:02:23,504] {logging_mixin.py:104} INFO - [2021-04-06 20:02:23,504] {dag.py:2273} INFO - Setting next_dagrun for hello_world2 to 2021-04-05 12:00:00+00:00
+[2021-04-06 20:02:23,515] {scheduler_job.py:190} INFO - Processing /Users/garonsmith/airflow/dags/simple_dag.py took 0.069 seconds
